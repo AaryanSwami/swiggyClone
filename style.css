@@ -21,11 +21,11 @@ main {
 
   .navi {
     height: 80px;
-    width: 1200px; /* or use max-width for responsiveness */
+    width: 1200px; 
     background-color: #ffffff;
     display: flex;
     align-items: center;
-    justify-content: space-between; /* Adjusts spacing between items */
+    justify-content: space-between; 
     position: fixed;
     margin:0px 160px;
     z-index: 10;
